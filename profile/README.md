@@ -1,7 +1,7 @@
 # TWINKLE - digital TWIN continuum: a Key enabler for pervasive cyber-physicaL Environments
 
 <p align="center">
-  <img class="center" src="banner_bianco.png" width="80%">
+  <img class="center" src="profile/banner_bianco.png" width="80%">
 </p>
 
 🇮🇹 Twinkle is a project within the PRIN (Progetti di Ricerca di rilevante Interesse Nazionale) Program 2022 for Research projects of national interest. 
