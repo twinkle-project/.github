@@ -6,7 +6,7 @@
 
 🇮🇹 Twinkle is a project within the PRIN (Progetti di Ricerca di rilevante Interesse Nazionale) Program 2022 for Research projects of national interest. 
 
-🇪🇺 The project has been founded by the European Union - Next Generation EU (Finanziato dall'Unione europea – Next Generation EU). 
+🇪🇺 The project has been funded by the European Union - Next Generation EU (Finanziato dall'Unione europea – Next Generation EU). 
 
 Consortium: 
 
