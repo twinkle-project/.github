@@ -31,9 +31,6 @@ Accordingly, the overall objective of the project is to investigate, define and 
 The TWINKLE project has produced several open-source software artifacts implementing the Digital Twin Continuum concepts. 
 These repositories are publicly available and demonstrate the theoretical and practical contributions of the project:
 
-### [HWoDT - Hypermedia Web of Digital Twins](https://github.com/WebBased-WoDT)
-A comprehensive framework for building interoperable Digital Twin ecosystems based on web standards and hypermedia principles. The HWoDT framework enables the creation of DTs that can be discovered and interacted with using standard web technologies, supporting the vision of ecosystems of connected DTs.
-
 ### [Digital Twin Continuum Platform Prototype](https://github.com/twinkle-project/dt-continuum-platform)
 A proof-of-concept implementation of the DTC platform demonstrating the integration of middleware and infrastructure components. This prototype showcases the deployment and orchestration of DTs across the edge-cloud continuum.
 
@@ -42,3 +39,6 @@ Java-based implementation of Digital Twin packages for an industrial microfactor
 
 ### [Industrial Microfactory - Digital Twin Model](https://github.com/twinkle-project/microfactory-digital-twin-model)
 Python-based Digital Twin model for the industrial microfactory use case, providing a reference implementation for DT modeling and cyber-physical synchronization.
+
+### [HWoDT - Hypermedia Web of Digital Twins](https://github.com/WebBased-WoDT)
+A comprehensive framework for building interoperable Digital Twin ecosystems based on web standards and hypermedia principles. The HWoDT framework enables the creation of DTs that can be discovered and interacted with using standard web technologies, supporting the vision of ecosystems of connected DTs.
