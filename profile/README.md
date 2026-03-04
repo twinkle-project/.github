@@ -14,7 +14,7 @@ Consortium:
 - University of Pisa - Prof. Antonio Virdis (Substitute Principal Investigator)
 - University of Bologna - Cesena Campus - Prof. Alessandro Ricci (Unit Coordinator)
 
-# Brief Project Description
+## Brief Project Description
 
 Digital Twins (DT) are evolving from their original research field and emerging as a new cross-domain paradigm for design and implementing cyber-physical applications through the creation of synchronized software replicas of physical devices, products, and organizations, usually called Physical Assets (PAs). They are moving fast towards a widespread adoption beyond industrial and manufacturing contexts, as a general way to bridge the physical and the digital spaces, also thanks to the pervasive diffusion of Internet of Things (IoT) and Web technologies, that extends their applicability across challenging cross-domain use cases.
 This challenging pervasive DT evolution calls for new software architectures and approaches featuring levels of flexibility beyond the ones provided by the solutions available in the state of the art that are building DTs mainly as passive components, without an interoperable modeling and through several platform-specific silos. Currently, each model is built from scratch without common methodologies and with the concrete risk to generate a strong vendor lock-in and to block the creation of a real open ecosystem where PAs, DTs and applications can cooperate through an effective service continuum.
@@ -25,3 +25,20 @@ Accordingly, the overall objective of the project is to investigate, define and 
 - DT As Service: envisioning a pervasive use of DTs as services virtualizing any relevant logical or physical assets to be consumed by an application layer on top, away from the DT-as-silo view;
 - Ecosystems of DT: envisioning dynamic ecosystems of connected/linked DTs, mirroring complex dynamic ecosystems of inter-related PAs;
 - Deployment Independence, envisioning the possibility to have a flexible and dynamic deployment of DTs at different network levels, from edge to cloud, according to need, optimizing orchestration, monitoring and performance across multiple execution points.
+
+## Open Source Software Artifacts
+
+The TWINKLE project has produced several open-source software artifacts implementing the Digital Twin Continuum concepts. 
+These repositories are publicly available and demonstrate the theoretical and practical contributions of the project:
+
+### [HWoDT - Hypermedia Web of Digital Twins](https://github.com/WebBased-WoDT)
+A comprehensive framework for building interoperable Digital Twin ecosystems based on web standards and hypermedia principles. The HWoDT framework enables the creation of DTs that can be discovered and interacted with using standard web technologies, supporting the vision of ecosystems of connected DTs.
+
+### [Digital Twin Continuum Platform Prototype](https://github.com/twinkle-project/dt-continuum-platform)
+A proof-of-concept implementation of the DTC platform demonstrating the integration of middleware and infrastructure components. This prototype showcases the deployment and orchestration of DTs across the edge-cloud continuum.
+
+### [Industrial Microfactory - Digital Twin Packages](https://github.com/twinkle-project/microfactory-digital-twin-packages)
+Java-based implementation of Digital Twin packages for an industrial microfactory scenario, demonstrating the practical application of the DTC concepts in manufacturing environments.
+
+### [Industrial Microfactory - Digital Twin Model](https://github.com/twinkle-project/microfactory-digital-twin-model)
+Python-based Digital Twin model for the industrial microfactory use case, providing a reference implementation for DT modeling and cyber-physical synchronization.
